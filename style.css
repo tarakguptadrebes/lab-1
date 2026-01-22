@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 650px;
+  margin: 60px auto;
+  padding: 0 16px;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #2563eb;
+  margin-bottom: 12px;
+}
